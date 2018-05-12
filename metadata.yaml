@@ -1,0 +1,29 @@
+_repo: Ruth-Fielding-Down-in-DixieGreat-Times-in-the-Land-of-Cotton_36747
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Emerson, Alice B.
+    gutenberg_agent_id: '1619'
+    url: http://www.gutenberg.org/2009/agents/1619
+description: ''
+gutenberg_issued: '2011-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36747'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thieves -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Theft -- Juvenile fiction'
+- !lcsh 'Fielding, Ruth (Fictitious character) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Chesapeake Bay (Md. and Va.) -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+title: Ruth Fielding Down in Dixie; Or, Great Times in the Land of Cotton
+url: http://www.gutenberg.org/ebooks/36747
